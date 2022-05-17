@@ -39,7 +39,7 @@ Note: You must install and have an operating local blockchain on your machine to
 There are three main functions to this application (Please refer to joint_savings.sol for full source code):
 
 ---
-## Deploying and Completing Test Transactions
+## Deploying Smart Contracts
 
 Note: Please refer to folder Screenshots-Videos for screenshots and videos of completed test transactions.
 
@@ -107,13 +107,18 @@ The following screenshots capture each contract's successful deployment once the
 
 ![KaseiCoin-Crowdsale-Deployer-Compiled](https://github.com/davidlp94/21-Blockchain-Tokenomics/blob/main/Screenshots-Videos/KaseiCoin-Crowdsale-Deployer-Compiled.JPG)
 
-
-
-
-
-
-
 ---
+
+## Testing Smart Contracts Using Ganache and Metamask
+
+Once each smart contract is successfully compiled, the next step would be to run some test transactions. In our case, Ganache will serve as our local blockchain network and the injected Web3 will be MetaMask extension. The following video shows how to successfully deploy each smart contract. KaseiCoin to the...Mars!
+
+
+
+
+
+
+
 
 
 
