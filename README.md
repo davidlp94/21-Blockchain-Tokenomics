@@ -116,8 +116,7 @@ Once each smart contract is successfully compiled, the next step would be to run
 
 
 
-
-
+https://user-images.githubusercontent.com/96163075/168729302-78b63038-1ecb-49fc-a21e-78dc458ddd49.mp4
 
 
 
