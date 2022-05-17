@@ -12,7 +12,7 @@
 
 
 
-# Blockchain - Tokenomics
+# Blockchain - Tokenomics - KaseiCoin
 Note: Please refer to smart contract files for complete source code.
 
 This repository contains (2) different smart contracts that serves different purposes. The cryptocurrency project that is being crowdfunded/launched is called KaseiCoin and it is suppose to serve as a new monetary system using blockchain technology for people who are moving to Mars to convert fiat currency to KaseiCoin. KasiCoin will be a fungible token that is ERC-20 compliant (For a better understanding of ERC-20 compliance, visit the following resource from OpenZeppelin - https://docs.openzeppelin.com/contracts/2.x/erc20). 
