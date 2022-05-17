@@ -103,8 +103,6 @@ The following screenshots capture each contract's successful deployment once the
 
 ![KaseiCoin-Compiled](https://github.com/davidlp94/21-Blockchain-Tokenomics/blob/main/Screenshots-Videos/KaseiCoin-Compiled.JPG)
 
-![KaseiCoin-Crowdsale-Compiled](https://github.com/davidlp94/21-Blockchain-Tokenomics/blob/main/Screenshots-Videos/KaseiCoin-Crowdsale-Compiled.JPG)
-
 ![KaseiCoin-Crowdsale-Deployer-Compiled](https://github.com/davidlp94/21-Blockchain-Tokenomics/blob/main/Screenshots-Videos/KaseiCoin-Crowdsale-Deployer-Compiled.JPG)
 
 ---
